@@ -1,0 +1,18 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 02 19:02:41.436234 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.2.34 configured -- resuming normal operations
+[Wed Nov 02 19:02:41.436283 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Nov 02 19:02:41.592032 2022] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'database' (115)
+[Wed Nov 02 19:02:41.592036 2022] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'database' (115)
+[Wed Nov 02 19:02:41.592037 2022] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'database' (115)
+[Wed Nov 02 19:02:41.592032 2022] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'database' (115)
+[Wed Nov 02 19:02:41.592088 2022] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00629: Can't connect to mysql: Can't connect to MySQL server on 'database' (115)
+[Wed Nov 02 19:02:41.592103 2022] [dbd:error] [pid 19] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Wed Nov 02 19:02:41.592107 2022] [dbd:error] [pid 20] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Wed Nov 02 19:02:41.592113 2022] [dbd:error] [pid 21] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Wed Nov 02 19:02:41.592123 2022] [dbd:error] [pid 17] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Wed Nov 02 19:02:41.592128 2022] [dbd:crit] [pid 19] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Wed Nov 02 19:02:41.592130 2022] [dbd:error] [pid 18] (20014)Internal error (specific information not available): AH00633: failed to initialise
+[Wed Nov 02 19:02:41.592130 2022] [dbd:crit] [pid 20] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Wed Nov 02 19:02:41.592133 2022] [dbd:crit] [pid 21] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Wed Nov 02 19:02:41.592135 2022] [dbd:crit] [pid 17] (20014)Internal error (specific information not available): AH00636: child init failed!
+[Wed Nov 02 19:02:41.592139 2022] [dbd:crit] [pid 18] (20014)Internal error (specific information not available): AH00636: child init failed!
